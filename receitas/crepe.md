@@ -12,7 +12,7 @@
 
 
 
-### Modo de Preparo: :heavy_check_mark
+### Modo de Preparo: :heavy_check_mark:
 
 1. Junte o leite, ovo e a farinha de trigo dentro de um liquidificador e bata até chegar em uma massa homogênea;
 2. Coloque uma frigideira em fogo baixo e unte com manteiga;

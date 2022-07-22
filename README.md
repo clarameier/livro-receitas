@@ -2,4 +2,5 @@
 
 ​	Olá, seja bem vinda ao meu livro de receitas :wave:
 
-- Crepe (salgado ou doce)
+- Crepe (salgado ou doce);
+- Petit Gateau;

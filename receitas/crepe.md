@@ -11,12 +11,7 @@
 - recheio de acordo com sua preferência.
 
 
-
-<<<<<<< HEAD
-### Modo de Preparo: :heavy_check_mark:
-=======
 ### Modo de Preparo: ✔️
->>>>>>> 6282fc1b790861aa23c67ac2bfb60c0d168818c5
 
 1. Junte o leite, ovo e a farinha de trigo dentro de um liquidificador e bata até chegar em uma massa homogênea;
 2. Coloque uma frigideira em fogo baixo e unte com manteiga;
